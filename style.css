@@ -33,7 +33,8 @@ header{
 .logo-header{
     height: 32px;
     width: 147px;
-    margin-top: 39px;   
+    margin-top: 39px;  
+    margin-bottom: 64px; 
     }
 
 h1{
